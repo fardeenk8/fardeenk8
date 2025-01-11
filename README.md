@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **developing my skills in domains like machine learning and cloud.**
 
-- 🌱 I’m currently learning **Cloud computing foundation from GCP, Flask & Intermediate Python**
+- 🌱 I’m currently learning **Cloud computing foundation from GCP, Flask & Advanced Python**
 
 - 👯 I’m looking to collaborate on **any project that incorporates machine learning and web development technologies**
 
