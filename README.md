@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fardeen Kachawa</h1>
-<h3 align="center">I am a passionate software developer from India, currently pursuing my masters degree in United States</h3>
+<h3 align="center">I am a passionate software developer from India, currently pursuing my master's degree in United States</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardeenk8&label=Profile%20views&color=0e75b6&style=flat" alt="fardeenk8" /> </p>
 
